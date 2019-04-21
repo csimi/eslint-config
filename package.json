@@ -1,0 +1,15 @@
+{
+  "name": "@csimi/eslint-config",
+  "version": "1.0.0",
+  "description": "My eslint config as a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Csirmaz",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": "^5.11.0"
+  }
+}
