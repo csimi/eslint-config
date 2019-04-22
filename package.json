@@ -8,6 +8,10 @@
   },
   "author": "David Csirmaz",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:csimi/eslint-config.git"
+  },
   "dependencies": {},
   "peerDependencies": {
     "eslint": "^5.11.0"
