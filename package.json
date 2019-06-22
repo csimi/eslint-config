@@ -1,6 +1,6 @@
 {
   "name": "@csimi/eslint-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "My eslint config as a package",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,12 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "eslint": "^5.11.0"
-  }
+    "eslint": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
 }

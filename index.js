@@ -4,11 +4,8 @@ module.exports = {
 	],
 	'rules': {
 		// possible errors
-		'no-async-promise-executor': ['error'],
 		'no-await-in-loop': ['error'],
 		'no-console': ['off'],
-		'no-prototype-builtins': ['error'],
-		'require-atomic-updates': ['error'],
 		// best practices
 		'block-scoped-var': ['error'],
 		'curly': ['error'],
@@ -33,10 +30,8 @@ module.exports = {
 		'no-self-compare': ['error'],
 		'no-sequences': ['error'],
 		'no-throw-literal': ['error'],
-		'no-useless-catch': ['error'],
 		'no-useless-concat': ['error'],
 		'no-useless-return': ['error'],
-		'no-with': ['error'],
 		'prefer-promise-reject-errors': ['error', {
 			'allowEmptyReject': true,
 		}],
@@ -46,7 +41,6 @@ module.exports = {
 		// variables
 		'no-label-var': ['error'],
 		'no-shadow': ['error'],
-		'no-shadow-restricted-names': ['error'],
 		'no-unused-vars': ['error', {
 			'ignoreRestSiblings': true,
 		}],
@@ -55,9 +49,7 @@ module.exports = {
 		'arrow-parens': ['error', 'always'],
 		'arrow-spacing': ['error'],
 		'generator-star-spacing': ['error'],
-		'no-confusing-arrow': ['error', {
-			'allowParens': true,
-		}],
+		'no-confusing-arrow': ['error'],
 		'no-duplicate-imports': ['error'],
 		'no-useless-computed-key': ['error'],
 		'no-useless-constructor': ['error'],
