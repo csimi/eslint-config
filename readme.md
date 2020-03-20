@@ -1,4 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/@csimi/eslint-config.svg)](https://www.npmjs.com/package/@csimi/eslint-config)
+[![npm version](https://img.shields.io/npm/v/@csimi/eslint-config.svg?logo=npm)](https://www.npmjs.com/package/@csimi/eslint-config)
 
 # About
 
