@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/@csimi/eslint-config.svg?logo=npm)](https://www.npmjs.com/package/@csimi/eslint-config)
+[![build status](https://github.com/csimi/eslint-config/workflows/build/badge.svg)](https://github.com/csimi/eslint-config/actions)
 
 # About
 
