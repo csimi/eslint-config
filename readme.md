@@ -24,5 +24,5 @@ Extend @csimi/eslint-config in your .eslintrc file.
 # Peer dependencies
 
 ```
-$ npm install eslint@6 --save-dev
+$ npm install eslint@7 --save-dev
 ```
