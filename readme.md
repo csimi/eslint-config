@@ -4,6 +4,7 @@
 # About
 
 This is my eslint config as a package. It's probably not very interesting for anyone else.
+The stylistic rules are geared towards being super-consistent.
 
 # Usage
 
@@ -24,5 +25,5 @@ Extend @csimi/eslint-config in your .eslintrc file.
 # Peer dependencies
 
 ```
-$ npm install eslint@7 --save-dev
+$ npm install eslint@8 --save-dev
 ```

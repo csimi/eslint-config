@@ -1,6 +1,6 @@
 {
   "name": "@csimi/eslint-config",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "My eslint config as a package",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,14 @@
     "type": "git",
     "url": "git@github.com:csimi/eslint-config.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "eslint-plugin-indent-empty-lines": "^1.0.1"
+  },
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^8.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^8.1.0"
   },
   "files": [
     "index.js"
