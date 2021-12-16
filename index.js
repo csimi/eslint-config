@@ -55,7 +55,6 @@ module.exports = {
 		'no-octal-escape': e,
 		'no-proto': e,
 		'no-return-assign': e,
-		'no-return-await': e,
 		'no-sequences': e,
 		'no-shadow': e,
 		'no-throw-literal': e,
